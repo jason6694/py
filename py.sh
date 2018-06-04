@@ -1,6 +1,7 @@
 #!bin/bash
+000000=/home/booooob456/000000
 tmux new -s 000000
-cd /home/booooob456/000000
+cd $000000
 python3 LH.py
 ^b
 d
