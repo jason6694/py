@@ -1,4 +1,5 @@
-#!bin/bash
+#!bin/sh
+source ./py.sh
 tmux new -s 000000
 cd /home/booooob456/000000
 python3 LH.py
